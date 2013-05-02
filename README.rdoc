@@ -1,0 +1,25 @@
+== About
+
+For some reason some MS Xlive games which support LAN play do not work through Hamachi on Tunggle. ConnectionOverride fixes this. Most people who have this problem edit their WinRegistry by hand. Using this little program is easier and safer.
+
+== Tested With Game
+
+ * Formula 1 2010
+ * Formula 1 2011
+
+== Tested With OS
+
+ * Windows XP
+ * Windows 7
+ * Windows 8
+
+== Features
+
+ * Console interface - conver.py
+ * GUI - gui.py
+ * setup.py for bundling into dirstibutable program. Uses http://www.py2exe.org/
+
+== Limitations
+
+ * You cannot choose Tunggle via the GUI. Use the console tool instead.
+
